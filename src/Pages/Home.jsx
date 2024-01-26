@@ -16,13 +16,13 @@ function Home() {
       <p style={{fontFamily: "font-family: 'Jost', sans-serif;",color:"white",marginTop:"-4%"}}><b>I'm a passionate and smart working individual who is always looking to improve my skills and learn new technologies.</b></p>
       <div className='col-lg-3 col-sm-12 icons d-flex justify-content-evenly ms-3 mt-4'>
             <Link  data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="800"  to={'https://www.instagram.com/'} style={{ textDecoration:'none',color:'white',}}className='icon-link'><i class="fa-brands fa-instagram fa-2x me-4 ms-4"></i></Link>
+          data-aos-duration="800"  to={'https://www.instagram.com/_a_m_a_l_r_a_j_tkry_?igsh=MWY4cGdhZmZ0ODZoeA=='} style={{ textDecoration:'none',color:'white',}}className='icon-link'><i class="fa-brands fa-instagram fa-2x me-4 ms-4"></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="800" to={'https://www.facebook.com/'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-brands fa-github fa-2x me-4 "></i></Link>
+          data-aos-duration="800" to={'https://github.com/kayilwalker'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-brands fa-github fa-2x me-4 "></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="800" to={'https://www.linkedin.com/'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-brands fa-linkedin-in fa-2x me-4"></i></Link>
+          data-aos-duration="800" to={'https://www.linkedin.com/in/amalraj-pm/'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-brands fa-linkedin-in fa-2x me-4"></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="800" to={'https://twitter.com/'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-solid fa-2x me-4 fa-envelope"></i></Link>
+          data-aos-duration="800" to={'mailto:amalrajpm788@gmail.com'} style={{textDecoration:'none',color:'white'}}className='icon-link'><i class="fa-solid fa-2x me-4 fa-envelope"></i></Link>
   
          </div>
       </Col>
