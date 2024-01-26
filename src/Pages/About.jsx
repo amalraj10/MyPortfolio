@@ -111,8 +111,8 @@ function About() {
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000" md={6}>  <h2 className='mt-5' style={{fontFamily:"'Philosopher', sans-serif",fontSize:"50px",fontWeight:"700" ,marginTop:"-3%",color:"#fcb045"}}>Experience</h2>
               
-              <div className='mt-4'   style={{alignItems:"center",justifyContent:"center",backgroundColor:"white",padding:"20px",width:"100%",height:"65%",boxShadow: '2px 10px 8px black', 
-    padding: '20px',}}>
+              <div className='mt-4'   style={{alignItems:"center",justifyContent:"center",backgroundColor:"white",padding:"20px",width:"100%",height:"70%",boxShadow: '2px 10px 8px black', 
+   }}>
                 <p><i class="fa-solid fa-calendar-week"></i> 2023</p>
                 <h4><b>MEA(R)N Stack Developer Intern</b></h4>
                 <p style={{color:"#fcb045"}}>Luminar TechnoLab Kochi</p>
@@ -132,7 +132,7 @@ function About() {
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000" md={6}><h2 className='mt-5 ' style={{fontFamily:"'Philosopher', sans-serif",fontSize:"50px",fontWeight:"700" ,marginTop:"-3%",color:"#fcb045"}}>Education</h2>
 
-<div className='mt-4'  style={{alignItems:"center",justifyContent:"center",backgroundColor:"white",padding:"20px",width:"100%",height:"65%",marginBottom:"20%",boxShadow: ' 2px 10px 8px black', 
+<div className='mt-4'  style={{alignItems:"center",justifyContent:"center",backgroundColor:"white",padding:"20px",width:"100%",height:"70%",marginBottom:"20%",boxShadow: ' 2px 10px 8px black', 
     padding: '20px',}}>
         <p><i class="fa-solid fa-calendar-week"></i> 2020-2023</p>
         <h4><b>Bachelor of Computer Application</b></h4>

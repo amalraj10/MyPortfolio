@@ -37,7 +37,7 @@ function Service() {
         <Col  data-aos="flip-down"
      data-aos-easing="ease-out-cubic"
      data-aos-duration="2000"
-          className='mt-4 me-4 service-card'
+         
           style={{
             backgroundColor: 'white',
             width: '100%',
@@ -48,7 +48,9 @@ function Service() {
             minHeight: '200px',
             display: 'flex',
             flexDirection: 'column',boxShadow: ' 2px 10px 8px black'
+
           }}
+          className='mt-4 me-4 service-card'
           md={4}
         >
 <div style={{ flex: 1 }}>
