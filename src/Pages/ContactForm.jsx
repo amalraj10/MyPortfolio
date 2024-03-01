@@ -37,7 +37,7 @@ const ContactForm = () => {
             <Link data-aos="flip-up" data-aos-easing="linear"
           data-aos-duration="1000" to={'https://www.instagram.com/_a_m_a_l_r_a_j_tkry_?igsh=MWY4cGdhZmZ0ODZoeA=='} style={{ textDecoration:'none',color:'white',boxShadow: ' 2px 10px 8px black'}}className='icon-link'><i class="fa-brands fa-instagram fa-2x "></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
-          data-aos-duration="1000" to={'https://github.com/kayilwalker'} style={{textDecoration:'none',color:'white',boxShadow: ' 2px 10px 8px black',}}className='icon-link'><i class="fa-brands fa-github fa-2x "></i></Link>
+          data-aos-duration="1000" to={'https://github.com/amalraj10'} style={{textDecoration:'none',color:'white',boxShadow: ' 2px 10px 8px black',}}className='icon-link'><i class="fa-brands fa-github fa-2x "></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
           data-aos-duration="1000" to={'https://www.linkedin.com/in/amalraj-pm/'} style={{textDecoration:'none',color:'white',boxShadow: ' 2px 10px 8px black',}}className='icon-link'><i class="fa-brands fa-linkedin-in fa-2x "></i></Link>
           <Link data-aos="flip-up" data-aos-easing="linear"
