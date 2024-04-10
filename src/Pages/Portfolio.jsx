@@ -122,7 +122,7 @@ function Portfolio() {
      data-aos-duration="2000"  className='mt-5  ' style={{ width: '18rem',boxShadow: ' 2px 10px 8px black'}}>
           <Card.Img variant="top" style={{ height: '250px' }} className='p-2'  src={Intrest} />
           <Card.Body>
-          <center>  <Card.Title style={{color:"black"}}> <b>  SIMPLE INTREST </b></Card.Title></center>
+          <center>  <Card.Title style={{color:"black"}}> <b>  SIMPLE INTEREST </b></Card.Title></center>
             
             <div className='d-flex align-items-center justify-content-between mt-3'>
                <Button href='https://intrest-app.vercel.app/'   variant="dark"> <i class="fa-solid fa-link"></i> Visit</Button>
